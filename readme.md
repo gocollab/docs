@@ -1,0 +1,3 @@
+# GoCollab: Docs
+
+Official documentation
